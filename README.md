@@ -7,8 +7,8 @@ performance and historical stock market trends.
 
 ## Tools Used
 
-• Power BI
-• Power Query
+- Power BI
+- Power Query
 • DAX
 • Excel / CSV
 • Data Visualization
