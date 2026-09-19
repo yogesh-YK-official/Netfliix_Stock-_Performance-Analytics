@@ -9,27 +9,27 @@ performance and historical stock market trends.
 
 - Power BI
 - Power Query
-• DAX
-• Excel / CSV
-• Data Visualization
+- DAX
+- Excel / CSV
+- Data Visualization
 
 ## Dashboard Features
 
 KPI CARDS:
-• Latest Close Price
-• Total Trading Days
-• Daily Changes %
-• Latest Volume
-• 52 Week High
-• Cumulative Growth
-• Trend Signal
-• Slicers by Year & Quarter
+- Latest Close Price
+- Total Trading Days
+- Daily Changes %
+- Latest Volume
+- 52 Week High
+- Cumulative Growth
+- Trend Signal
+- Slicers by Year & Quarter
 
 Dashboard Visualizations:
-• Price And Trend Analysis
-• Volume Analysis
-• Volatility Analysis
-• Year Growth Analysis
+- Price And Trend Analysis
+- Volume Analysis
+- Volatility Analysis
+- Year Growth Analysis
 
 ## Objective
 
