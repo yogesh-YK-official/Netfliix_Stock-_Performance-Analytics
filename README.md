@@ -45,3 +45,14 @@ The Power BI `.pbix` file is available in this repository.
 Yogesh Kumar.K
 
 B.Sc Computer Science with Data Analytics
+
+## 📸 Dashboard Preview
+
+### Dashboard 1
+![Netflix Dashboard 1](ProjectZ1.png)
+
+### Dashboard 2
+![Netflix Dashboard 2](ProjectZ2.png)
+
+### Dashboard 3
+![Netflix Dashboard 3](ProjectZ3.png)
